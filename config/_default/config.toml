@@ -1,0 +1,14 @@
+baseURL = "http://example.org/" # The URL of your site.
+theme = "PaperMod"
+
+defaultContentLanguage = "en" # Default language to use (if you setup multilingual)
+defaultContentLanguageInSubdir = true # baseURL/en/, baseURL/kr/ ...
+hasCJKLanguage = true
+
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+
