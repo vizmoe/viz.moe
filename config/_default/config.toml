@@ -1,8 +1,8 @@
-baseURL = "http://example.org/" # The URL of your site.
+baseURL = "https://viz.moe/"
 theme = "PaperMod"
 
-defaultContentLanguage = "en" # Default language to use (if you setup multilingual)
-defaultContentLanguageInSubdir = true # baseURL/en/, baseURL/kr/ ...
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 
 enableInlineShortcodes = true
